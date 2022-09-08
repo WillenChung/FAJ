@@ -37,3 +37,5 @@ get长度有什么要求
 索引设计原则  
 SQL优化  
 企业级开发，集群之类的有无了解  
+反问环节：部门使用技术栈  
+Java Golang Spring redis
