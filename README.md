@@ -50,3 +50,11 @@ Java Golang Spring redis
 什么是事务？事务隔离等级？  
 SQL优化有哪些？  
 
+### 科来一面  
+内存越界 内存泄漏怎么排查  
+流量控制  
+0窗口怎么办  
+数组和链表 遍历哪个快  
+unordered_map和map的区别  
+
+
